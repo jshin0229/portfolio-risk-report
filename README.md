@@ -4,7 +4,7 @@ Give it a list of holdings and it produces a clean, one-page HTML risk report. T
 
 **Live examples:** [Tech-tilted balanced portfolio](https://jshin0229.github.io/portfolio-risk-report/) · [Classic 60/40](https://jshin0229.github.io/portfolio-risk-report/60-40.html)
 
-I was inspired by how student investment clubs like [Algory Capital](https://github.com/Algory-Capital) present portfolio analysis. I wanted a tool that turns a portfolio into a one-page report that someone without a finance background can read. The code is written from scratch.
+I was inspired by how student investment clubs like Algory Capital present portfolio analysis. I wanted a tool that turns a portfolio into a one-page report that someone without a finance background can read. The code is written from scratch.
 
 ![Report preview](examples/report-preview.png)
 
